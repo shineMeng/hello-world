@@ -1,2 +1,2 @@
 # hello-world
-this is my first repository of github
+modify the readme for trying use the commit.
